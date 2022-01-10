@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\web test"
+		},
+		{
+			"path": "..\\web section 1"
+		},
+		{
+			"path": "..\\شياشة"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "شياشة"
+	}
+}
